@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 
 
  [editor on GitHub](https://github.com/frankly13/maisum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
