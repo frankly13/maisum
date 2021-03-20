@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+## <!DOCTYPE HTML>
+<!--
+	Trinity Lab Web solutions
+-->
+<html lang="pt-br">
+<head>
 
-You can use the [editor on GitHub](https://github.com/frankly13/maisum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <br>
+  <br>
+  <br>
+    <title>Dj Jards</title>
+    <meta charset="UTF-8" />
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0"/>
+     <link rel="stylesheet" type="text/css" href="reset.css">
+     <link rel="stylesheet" type="text/css" href="css/style.css">
+   
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body class="page01" background="F:\Versão final\img\fundofone.jpg">
+        
+        <div class="dj"  >
+           <font size="10px" color="#C0C0C0">DJ Jards</font>
+        </div>   
+         <header>
+           
+        
+           
+           <div>
+           <nav class="nav-collapse" align="center">
 
-### Markdown
+          <button class="menu-item active"><a href="file:///F:/Vers%C3%A3o%20final/album.html" data-scroll target="_blank">Álbum</a></button>
+          <button class="menu-item"><a href="file:///F:/Vers%C3%A3o%20final/galeria.html" data-scroll target="_blank">Galeria</a></button></button>
+          <button class="menu-item"><a href="F:/Vers%C3%A3o%20final/lIsta%20link.html"data-scroll target="_blank">Links</a></button></button>
+          <button class="menu-item"><a href=":/Vers%C3%A3o%20final/Contatos.html" data-scroll target="_blank">Contato</a></button>
+          
+        
+          </nav>
+        </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      </header> 
+       
+     <div class="container" >
+                    
+         <br>
+           <br> 
+         
+         </div>
+           
+           <div class="bg" align="center">
+             
+              <img src="F:/Dj Jards/img/bg.jpeg" alt=""/>
+              
+           </div>
 
-```markdown
-Syntax highlighted code block
+                        
+              <div class="texto01">
+                  
+                   <font size="5px" color="#C0C0C0"> 
+                     <p align="justfy" >
+                     <h4>                 
+                     Com um projeto analógico no vinil Seu trabalho mais busca mesclar a música brasileira e um projeto experimental em música eletrônica onde ele passa e mistura vertentes mundiais como o progressivo a música étnica.Auto didata a maior parte de sua técnica vem de anos de pesquisa, observação e experimentação sonoras, praticado em seu estúdio pessoal galho do macaco em sua casa onde grava suas
+                     mixtapes e remixes.
+                     </h4>
+                     </p>  
+                   </font>
 
-# Header 1
-## Header 2
-### Header 3
+                    <div class="Saiba"  align="right">
+                          
+                            <a href="F:/Vers%C3%A3o%20final/album.html" target="_blank" >
+                            <button>
+                            Saiba mais...
+                            </button>
+                            </a>
+                          </div>
+                                         
+               </div>
 
-- Bulleted
-- List
+             
+                 </div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+           </section>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frankly13/maisum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+      
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+    </div>
+
+    <div class="borda">
+  
+    </div>   
+
+
+  </body>
+</html>
